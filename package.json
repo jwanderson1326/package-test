@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/jwanderson1326/package-test.git",
   "author": "Justin Anderson <justinwarrenanderson@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
